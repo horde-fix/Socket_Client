@@ -1,5 +1,5 @@
 {
-    "name": "horde/socket-client",
+    "name": "horde/socket_client",
     "description": "Network socket client library",
     "type": "library",
     "homepage": "https://www.horde.org",
